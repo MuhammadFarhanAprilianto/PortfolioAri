@@ -34,7 +34,7 @@ export default function SkillsSection() {
     {
       title: 'Dasar K3 & Pemeliharaan Mekanikal',
       icon: <HugeiconsIcon icon={ShieldCheckIcon} size={24} strokeWidth={1.8} className="cat-icon text-emerald-600" />,
-      desc: 'Memahami dasar-dasar keselamatan kerja dan konsep fundamental Occupational Health and Safety (OHS) untuk mendukung lingkungan kerja yang aman. Menerapkan disiplin APD serta budaya 5S/5R dalam aktivitas operasional dan pemeliharaan mekanikal.',
+      desc: 'Melalui pendalaman materi Keselamatan dan Kesehatan Kerja (K3), saya telah mempelajari konsep fundamental Occupational Health and Safety (OHS) dalam mempromosikan kesejahteraan pekerja, mengasah kemampuan analisis proaktif melalui identifikasi hazards dan penilaian risk menggunakan metode HIRARC, serta memahami implementasi praktis budaya 5S untuk menciptakan lingkungan kerja yang ringkas, rapi, dan bebas dari risiko kecelakaan.',
       skills: ['Dasar-Dasar K3 / OHS', 'Budaya Kerja 5S / 5R', 'Preventive Maintenance', 'Troubleshooting Mekanikal'],
       highlightColor: 'rgba(5, 150, 105, 0.1)',
       accentColor: '#059669',
