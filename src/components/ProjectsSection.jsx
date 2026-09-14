@@ -34,7 +34,7 @@ export default function ProjectsSection() {
       icon: <HugeiconsIcon icon={Settings01Icon} size={22} strokeWidth={1.8} className="text-emerald-600" />,
       stats: 'Presisi Tinggi • Standar Mutu Industri',
       organization: 'PT. Futaba Nusapersada',
-      year: '2026',
+      year: '2026 — Saat Ini',
       color: 'linear-gradient(135deg, #dcfce7 0%, #f0fdf4 100%)',
     },
     {
@@ -113,8 +113,8 @@ export default function ProjectsSection() {
       id: 6,
       title: 'Servis & Preventive Maintenance Sistem Mekanikal Kendaraan',
       category: 'Manufaktur & Assembly',
-      image: '/MEKANIK.webp',
-      imagePosition: 'center center',
+      image: '/HINO.webp',
+      imagePosition: 'center 38%',
       description: 'Perawatan berkala mesin diesel dan bensin, overhaul sistem rem, kopling, suspensi, serta diagnosis kelistrikan bodi dan transmisi kendaraan operasional sesuai checklist standar pabrikan.',
       tech: [
         'Servis Berkala', 'Overhaul Mesin', 'Sistem Rem',

@@ -4,6 +4,7 @@ import { HugeiconsIcon } from '@hugeicons/react';
 import WhatsappIcon from '@hugeicons/core-free-icons/WhatsappIcon';
 import Mail01Icon from '@hugeicons/core-free-icons/Mail01Icon';
 import Linkedin01Icon from '@hugeicons/core-free-icons/Linkedin01Icon';
+import InstagramIcon from '@hugeicons/core-free-icons/InstagramIcon';
 
 export default function Footer() {
   const scrollToTop = () => {
@@ -53,6 +54,16 @@ export default function Footer() {
             >
               <HugeiconsIcon icon={Linkedin01Icon} size={16} strokeWidth={1.8} className="social-icon" />
               <span>LinkedIn</span>
+            </a>
+            <a 
+              href="https://www.instagram.com/aryspyt__" 
+              target="_blank" 
+              rel="noreferrer" 
+              className="social-pill" 
+              aria-label="Instagram"
+            >
+              <HugeiconsIcon icon={InstagramIcon} size={16} strokeWidth={1.8} className="social-icon" />
+              <span>Instagram</span>
             </a>
           </div>
         </div>

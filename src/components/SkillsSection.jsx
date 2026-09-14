@@ -32,10 +32,10 @@ export default function SkillsSection() {
       accentColor: '#d97706',
     },
     {
-      title: 'K3 Umum & Pemeliharaan Mekanikal',
+      title: 'K3 & Pemeliharaan Mekanikal',
       icon: <HugeiconsIcon icon={ShieldCheckIcon} size={24} strokeWidth={1.8} className="cat-icon text-emerald-600" />,
-      desc: 'Penerapan protokol keselamatan kerja bersertifikasi Ahli K3 Umum, budaya 5S/5R, serta preventive maintenance sistem mekanikal kendaraan.',
-      skills: ['Sertifikasi Ahli K3 Umum', 'Budaya Kerja 5S / 5R', 'Preventive Maintenance', 'Troubleshooting Mekanikal'],
+      desc: 'Menguasai konsep fundamental K3/OHS demi mendukung kesejahteraan pekerja.Mampu menganalisis risiko proaktif melalui identifikasi bahaya metode HIRARC.Menerapkan budaya 5S untuk menciptakan lingkungan kerja aman dan rapi.',
+      skills: ['Sertifikasi K3 ', 'Budaya Kerja 5S / 5R', 'Preventive Maintenance', 'Troubleshooting Mekanikal'],
       highlightColor: 'rgba(5, 150, 105, 0.1)',
       accentColor: '#059669',
     },

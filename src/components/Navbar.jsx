@@ -156,6 +156,15 @@ export default function Navbar() {
             </a>
             <span className="social-slash">/</span>
             <a 
+              href="https://www.instagram.com/aryspyt__" 
+              target="_blank" 
+              rel="noreferrer" 
+              className="social-nav-link"
+            >
+              Instagram
+            </a>
+            <span className="social-slash">/</span>
+            <a 
               href="https://wa.me/62895365251714?text=Halo%20Ari%20Supriyanto,%20saya%20tertarik%20bekerja%20sama" 
               target="_blank" 
               rel="noreferrer" 
@@ -269,6 +278,16 @@ export default function Navbar() {
                   className="mobile-contact-pill"
                 >
                   <span>LinkedIn</span>
+                  <ArrowUpRight size={14} />
+                </a>
+
+                <a 
+                  href="https://www.instagram.com/aryspyt__" 
+                  target="_blank" 
+                  rel="noreferrer"
+                  className="mobile-contact-pill"
+                >
+                  <span>Instagram</span>
                   <ArrowUpRight size={14} />
                 </a>
               </div>
