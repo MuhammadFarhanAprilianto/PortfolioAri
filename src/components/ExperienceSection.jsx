@@ -114,7 +114,7 @@ export default function ExperienceSection() {
       badge: 'Partisipasi K3 (OHS)',
       image: '/K3_SERTIFIKASI.webp',
       file: '/Sertifikat K3 Umum Ari Supriyanto.pdf',
-      desc: 'Partisipasi dalam pelatihan dasar Keselamatan dan Kesehatan Kerja untuk mempelajari konsep fundamental Occupational Health and Safety (OHS), kesadaran keselamatan di area kerja, kepatuhan APD, serta penerapan budaya 5S.',
+      desc: 'Melalui pendalaman materi Keselamatan dan Kesehatan Kerja (K3), saya telah mempelajari konsep fundamental Occupational Health and Safety (OHS) dalam mempromosikan kesejahteraan pekerja, mengasah kemampuan analisis proaktif melalui identifikasi hazards dan penilaian risk menggunakan metode HIRARC, serta memahami implementasi praktis budaya 5S untuk menciptakan lingkungan kerja yang ringkas, rapi, dan bebas dari risiko kecelakaan.',
       tags: ['Partisipasi K3', 'Dasar-Dasar OHS', 'Mita Training', 'Kepatuhan APD', 'Budaya 5S'],
     },
     {
