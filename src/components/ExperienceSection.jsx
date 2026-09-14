@@ -108,14 +108,14 @@ export default function ExperienceSection() {
     },
     {
       id: 2,
-      title: 'Ahli K3 (AK3)',
+      title: 'Online General K3 (OHS) Basic Education',
       issuer: 'Mita Training (PT. Mita Indonesia Berdaya)',
       year: '2025',
-      badge: 'Sertifikasi K3',
+      badge: 'Partisipasi K3 (OHS)',
       image: '/K3_SERTIFIKASI.webp',
       file: '/Sertifikat K3 Umum Ari Supriyanto.pdf',
-      desc: 'Menguasai konsep fundamental K3/OHS demi mendukung kesejahteraan pekerja.Mampu menganalisis risiko proaktif melalui identifikasi bahaya metode HIRARC.Menerapkan budaya 5S untuk menciptakan lingkungan kerja aman dan rapi.',
-      tags: ['Ahli K3 ', 'Mita Training', 'Audit SMK3', 'Budaya 5S Industri'],
+      desc: 'Partisipasi dalam pelatihan dasar Keselamatan dan Kesehatan Kerja untuk mempelajari konsep fundamental Occupational Health and Safety (OHS), kesadaran keselamatan di area kerja, kepatuhan APD, serta penerapan budaya 5S.',
+      tags: ['Partisipasi K3', 'Dasar-Dasar OHS', 'Mita Training', 'Kepatuhan APD', 'Budaya 5S'],
     },
     {
       id: 3,
@@ -171,7 +171,7 @@ export default function ExperienceSection() {
         <div className="section-head sr">
           <h2 className="section-title">Work Experience & Track Record</h2>
           <p className="section-desc">
-            Rekam jejak profesional, pelatihan kejuruan pengelasan bersertifikasi BNSP, sertifikasi keahlian K3 Umum, serta penghargaan kompetisi rancang bangun teknik.
+            Rekam jejak profesional, pelatihan kejuruan pengelasan bersertifikasi BNSP, edukasi dasar keselamatan kerja K3 (OHS), serta penghargaan kompetisi rancang bangun teknik.
           </p>
         </div>
 
